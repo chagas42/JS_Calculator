@@ -1,2 +1,2 @@
-#JS_Calculator
-simple calculator created in Vanilla JS
+#JS_Calculator.
+-Simple calculator created in Vanilla JS
